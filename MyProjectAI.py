@@ -1,11 +1,4 @@
 
-"""
-Created on Wed Jun 17 11:47:47 2019
-
-@author: Abid_Khan
-
-"""
-
 from operator import itemgetter
 #import tkinter as tk
 from tkinter import *
